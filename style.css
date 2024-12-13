@@ -11,10 +11,6 @@ body{
     height: 100vh;
     gap: -10px;
     background: linear-gradient(to bottom right , red , yellow , lightblue);
-    /* background: linear-gradient(45deg, red, green, blue); */
-    background: linear-gradient(to bottom, orange 20%, white 50%, green 80%);
-    /* background: linear-gradient(to right, rgba(255, 0, 0, 0.8), rgba(0, 0, 255, 0.2)); */
-    /* background:repeating-linear-gradient(45deg, red, yellow 10%, green 20%); */
     
 }
 
